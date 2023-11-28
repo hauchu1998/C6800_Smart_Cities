@@ -1,0 +1,253 @@
+Station: GARE D'AUSTER
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+  21999    22671      22710     21878   21373     14382   13698
+
+2024 Prediction (start from Sundat)
+French Open
+[20767 20462 20415 20947 22010 20612 19078 21610 20937 21262 20537 21307
+ 21514 19715 22335]
+
+Paris Olympic
+[100555  24555  28016  25968  21896  22018  50889 122507  23219  24755
+  27660  22232  21395  61466 143361]
+============================================================
+
+Station: JUSSIEU
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+  11125    11854      12411     11908   11921      6229    3777
+
+2024 Prediction (start from Sundat)
+French Open
+[ 3761 11372 11656 11650  9751  8344  5322  7779 11220 11260 11308 11450
+ 10670  5701  8453]
+
+Paris Olympic
+[  3778  11255  11932  13521  21210  37476   9373 104738  11144  12562
+  14744  12327  15046   7294 141609]
+============================================================
+
+Station: CARD.LEMOINE
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+   3576     4051       4296      4171    4444      3653    2105
+
+2024 Prediction (start from Sundat)
+French Open
+[2383 4408 4612 4606 4077 3878 3043 3514 4317 4514 4436 4527 4533 3484
+ 3371]
+
+Paris Olympic
+[ 2979  8184  5900  4828  4221  6160  6078 24560  7231  5310  4404  4894
+  4486  3839 20233]
+============================================================
+
+Station: MAUBERT-MUTUA
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+   3839     4524       4732      4599    4708      4171    2579
+
+2024 Prediction (start from Sundat)
+French Open
+[2825 4781 4958 4976 5046 4766 3535 3881 5464 4888 4973 5052 4640 3790
+ 3963]
+
+Paris Olympic
+[ 3137  9342  5515  5031  5633  4725  6480 18229 20216  5221  5024  5661
+  4731  4999 20262]
+============================================================
+
+Station: ODEON
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+  11117    12508      12835     12336   13688     12335    5811
+
+2024 Prediction (start from Sundat)
+French Open
+[ 8019 12696 12745 12738 12589 12811 10948 10970 13210 12803 12829 12701
+ 12694 12155 10857]
+
+Paris Olympic
+[ 25786  16456  12614  12852  12459  15025  16048 114862  20499  12673
+  12835  12593  15406  12397 110137]
+============================================================
+
+Station: MABILLON
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+   3645     4080       4443      4281    4322      4165    2468
+
+2024 Prediction (start from Sundat)
+French Open
+[2841 4633 5060 5113 4598 5627 3467 4019 4845 5250 5344 5246 5002 3845
+ 4280]
+
+Paris Olympic
+[ 3810 10021  9684  6848  4839 13703  6950 25675 13051 12068  8793  9460
+  6869  4750 34143]
+============================================================
+
+Station: SEVRES BABELONE
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+  10982    12424      12664     12451   12270     10791    6153
+
+2024 Prediction (start from Sundat)
+French Open
+[ 7939 11891 11982 11886 11425 11452  9098 10144 11778 11885 11846 11939
+ 11984 10899 10096]
+
+Paris Olympic
+[18496 12773 12798 13801 14463 13568 17115 67787 12355 12980 13922 12952
+ 12428 10816 66314]
+============================================================
+
+Station: VENEAU
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+   2522     2792       2857      2766    2672      1729     969
+
+2024 Prediction (start from Sundat)
+French Open
+[1194 3095 3130 3175 2846 2092 1539 2592 3222 3199 3157 3049 2777 1891
+ 2274]
+
+Paris Olympic
+[ 2212  5621  3766  3699  2821  5669  2226 65692  7147  4204  3607  3455
+  2770  2090 42814]
+============================================================
+
+Station: DUROC
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+   8665     9241       9574      9325    8970      5125    3322
+
+2024 Prediction (start from Sundat)
+French Open
+[ 4064 10339 10605 10724  9993  6164  4203 10423 10665 10683 10677 10511
+  9392  4580  9799]
+
+Paris Olympic
+[  7268  16365  14034  12862  10464  29869   9074 364723  19656  14598
+  12599  12916   9442   6504 303998]
+============================================================
+
+Station: SEGUR
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+   3723     4121       4300      4011    4109      2743    1559
+
+2024 Prediction (start from Sundat)
+French Open
+[2303 4935 4938 4946 5550 3622 2368 4825 5351 5070 5145 5012 4103 2616
+ 4508]
+
+Paris Olympic
+[ 10012  13117   7977   6610  18070   5483   3963 164464  20672   9324
+   8253   9958   4109   2883 134376]
+============================================================
+
+Station: LA MOTTE_PICQUET
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+  16246    17618      18658     18214   18342     14446    9348
+
+2024 Prediction (start from Sundat)
+French Open
+[ 9913 20321 21206 20622 19223 17547 11553 18916 20776 21445 21281 21515
+ 18818 13435 18913]
+
+Paris Olympic
+[ 10161  40582  35015  23580  19544  19162  28240 242518  46320  37410
+  27437  32458  18636  16130 242372]
+============================================================
+
+Station: AV.EMILE ZOLA
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+   3511     3877       4071      3807    3986      2942    1742
+
+2024 Prediction (start from Sundat)
+French Open
+[2222 4669 4823 4761 4885 3737 2334 4604 4769 4814 4790 4740 3933 2691
+ 4145]
+
+Paris Olympic
+[  4891  12604   9372   6855  11074   4356   5933 113696  14243   9268
+   7094   9251   4002   3451  80666]
+============================================================
+
+Station: CHARLES MICHEL
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+   9391    10126      10621     10208   10886      9273    5944
+
+2024 Prediction (start from Sundat)
+French Open
+[ 6437 10754 11278 11277 11308  9831  7585  9235 10920 11212 11228 11368
+ 10616  8878  8793]
+
+Paris Olympic
+[ 6917 14101 13246 11585 13030 13320 16589 49327 15318 12899 11446 13346
+ 11045  9673 38456]
+============================================================
+
+Station: JAVEL
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+   5731     6267       6438      6145    6108      3886    2402
+
+2024 Prediction (start from Sundat)
+French Open
+[5746 6856 6901 6567 5023 4327 6215 6898 6902 6922 6807 5075 3095]
+
+Paris Olympic
+[113245  10989   7794   6499  11022  18472   6704   7779   7234   8484
+   8012  12547   7162]
+============================================================
+
+Station: EGLI.D'AUTEUIL
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+    410      430        454       436     427       278     195
+
+2024 Prediction (start from Sundat)
+French Open
+[249 550 545 541 522 377 237 473 543 540 566 522 447 282 455]
+
+Paris Olympic
+[ 551 1548 1162  850  839  566  421 9631 1437 1099 1111  839  449  279
+ 8448]
+============================================================
+
+Station: M.ANGE-AUTEUIL
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+   5241     5670       5970      5806    5747      3607    2151
+
+2024 Prediction (start from Sundat)
+French Open
+[3947 7069 7305 7503 8538 5379 3633 7779 7633 7545 5540 7248 5558 3851
+ 6203]
+
+Paris Olympic
+[ 37855  20421  16895  15342  36414   6308   3611 352756  31234  20432
+   6707  14333   5894   3999 183890]
+============================================================
+
+Station: PORTE D'AUTEUIL
+Weekday Average Demands
+ Monday  Tuesday  Wednesday  Thursday  Friday  Saturday  Sunday
+   1018     1065       1163      1100    1095      1082     882
+
+2024 Prediction (start from Sundat)
+French Open
+[2738 2699 2962 2858 2696 3164 2452 2674 2714 2763 2799 2617 2748 2222
+ 1614]
+
+Paris Olympic
+[93872 67108 81516 59981 56234 94175 42383 87569 68293 65522 55957 50911
+ 60508 29679 15346]
+============================================================
+
